@@ -1,16 +1,18 @@
-## Hi there 👋
+# GustavoPiadas
 
-<!--
-**GustavoPiadas/GustavoPiadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Video Editor | Short-Form Specialist
 
-Here are some ideas to get you started:
+![Imagem](https://imgur.com/a/kWbtMly)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me:
+Hello! I am **Gustavo**.  
+I'm **Brazilian**, and I work as a **video editor**, focused on **short-form content** like TikToks, Reels, and YouTube Shorts.  
+I am passionate about crafting dynamic and engaging videos that help brands grow and attract attention.  
+
+---
+
+## Contact Me:
+- **Discord:** bungaskk  
+- **Email:** gustavohenriquecoutinho808@gmail.com
