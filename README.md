@@ -1,10 +1,11 @@
-                                         # GustavoPiadas
+<h1 align="center">GustavoPiadas</h1>
 
-## Video Editor | Short-Form Specialist
+<h3 align="center">Video Editor - Shorts Specialist</h3>
 
-![Imagem](https://imgur.com/a/kWbtMly)
+<p align="center">
+  <img src="https://imgur.com/m4dCtiZ.png" width="150" height="150">
+</p>
 
----
 
 ## About Me:
 Hello! I am **Gustavo**.  
@@ -15,4 +16,4 @@ I am passionate about crafting dynamic and engaging videos that help brands grow
 
 ## Contact Me:
 - **Discord:** bungaskk  
-- **Email:** gustavohenriquecoutinho808@gmail.com
+- **Email:** gustavohenriquecoutinho808@gmail.com  
