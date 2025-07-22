@@ -3,7 +3,7 @@
 <h3 align="center">Video Editor - Shorts Specialist</h3>
 
 <p align="center">
-  <img src="https://imgur.com/m4dCtiZ.png" width="150" height="150">
+  <img src="https://i.pinimg.com/236x/e5/a4/82/e5a48216536af28472c494db715705be.jpg" width="150" height="150">
 </p>
 
 
